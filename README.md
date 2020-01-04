@@ -4,4 +4,4 @@ utilizes multi threading to calculate the product of two matrices each element o
 # Testing
 This is a screenshot of the output from my program
 
-![TestResults](img/TestResults.png){ width=50% }
+![TestResults](img/TestResults.png)
